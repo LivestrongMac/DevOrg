@@ -14,6 +14,7 @@
  **/
 public class Accounts extends fflib_SObjectDomain 
 {
+	//Test the commit and push to master
 	public Accounts(List<Account> records) 
 	{
 		super(records);	
