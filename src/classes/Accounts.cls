@@ -14,7 +14,7 @@
  **/
 public class Accounts extends fflib_SObjectDomain 
 {
-	//Test the branch
+	//Test the branching from branch to master
 	public Accounts(List<Account> records) 
 	{
 		super(records);	
